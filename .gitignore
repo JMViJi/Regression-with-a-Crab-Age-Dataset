@@ -1,0 +1,3 @@
+config.local
+input/Crab Age fine-tuned gpt2/model.pt
+temp/
